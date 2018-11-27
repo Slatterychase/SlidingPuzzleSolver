@@ -1,0 +1,14 @@
+﻿  Board.cpp
+c:\users\slatt\desktop\slidingpuzzle\slidingpuzzle\slidingpuzzle\board.cpp(83): warning C4018: '<': signed/unsigned mismatch
+  SlidingPuzzle.cpp
+c:\users\slatt\desktop\slidingpuzzle\slidingpuzzle\slidingpuzzle\slidingpuzzle.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\slatt\desktop\slidingpuzzle\slidingpuzzle\slidingpuzzle\slidingpuzzle.cpp(63): warning C4018: '<': signed/unsigned mismatch
+  State.cpp
+c:\users\slatt\desktop\slidingpuzzle\slidingpuzzle\slidingpuzzle\state.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\slatt\desktop\slidingpuzzle\slidingpuzzle\slidingpuzzle\state.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\slatt\desktop\slidingpuzzle\slidingpuzzle\slidingpuzzle\state.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\slatt\desktop\slidingpuzzle\slidingpuzzle\slidingpuzzle\state.cpp(51): warning C4715: 'State::aStar': not all control paths return a value
+c:\users\slatt\desktop\slidingpuzzle\slidingpuzzle\slidingpuzzle\board.cpp(59): warning C4715: 'Board::getBlankX': not all control paths return a value
+c:\users\slatt\desktop\slidingpuzzle\slidingpuzzle\slidingpuzzle\board.cpp(72): warning C4715: 'Board::getBlankY': not all control paths return a value
+  SlidingPuzzle.vcxproj -> C:\Users\slatt\Desktop\SlidingPuzzle\SlidingPuzzle\Debug\SlidingPuzzle.exe
